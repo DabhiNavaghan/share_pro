@@ -1,12 +1,12 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:sharer/sharer_method_channel.dart';
-
+import 'package:share_pro/sharer_method_channel.dart';
+ 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
-  MethodChannelSharer platform = MethodChannelSharer();
-  const MethodChannel channel = MethodChannel('sharer');
+  MethodChannelSharePro platform = MethodChannelSharePro();
+  const MethodChannel channel = MethodChannel('share_pro');
 
   setUp(() {
     TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger.setMockMethodCallHandler(

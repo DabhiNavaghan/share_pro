@@ -1,4 +1,4 @@
-package com.navghan.share.sharer
+package com.navaghan.share_pro
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel

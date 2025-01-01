@@ -1,4 +1,5 @@
-import 'package:sharer/share_result.dart';
+ 
+import 'package:share_pro/share_result.dart';
 
 import 'sharer_platform_interface.dart';
 

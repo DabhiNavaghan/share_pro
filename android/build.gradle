@@ -1,4 +1,6 @@
-group = "com.navghan.share.sharer"
+package android
+
+group = "com.navaghan.share_pro"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -26,7 +28,7 @@ apply plugin: "kotlin-android"
 
 android {
     if (project.android.hasProperty("namespace")) {
-        namespace = "com.navghan.share.sharer"
+        namespace = "com.navaghan.share_pro"
     }
 
     compileSdk = 34

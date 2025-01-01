@@ -1,4 +1,4 @@
-# sharer
+# share_pro
 
 Flutter plugin for share data to another app
 
@@ -13,3 +13,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Null Safety
+As of version 1.0.1, this package fully supports null safety.

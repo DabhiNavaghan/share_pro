@@ -1,14 +1,14 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:sharer/share_result.dart';
+import 'package:share_pro/share_result.dart';
 
 import 'sharer_platform_interface.dart';
 
 /// An implementation of [SharerPlatform] that uses method channels.
-class MethodChannelSharer extends SharerPlatform {
+class MethodChannelSharePro extends SharerPlatform {
   /// The method channel used to interact with the native platform.
   @visibleForTesting
-  final methodChannel = const MethodChannel('sharer');
+  final methodChannel = const MethodChannel('share_pro');
 
   @override
   Future<String?> getPlatformVersion() async {

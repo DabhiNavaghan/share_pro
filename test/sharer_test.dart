@@ -1,9 +1,9 @@
-import 'package:flutter_test/flutter_test.dart';
-import 'package:sharer/share_result.dart';
-import 'package:sharer/sharer.dart';
-import 'package:sharer/sharer_platform_interface.dart';
-import 'package:sharer/sharer_method_channel.dart';
+import 'package:flutter_test/flutter_test.dart'; 
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
+import 'package:share_pro/share_result.dart';
+import 'package:share_pro/sharer.dart';
+import 'package:share_pro/sharer_method_channel.dart';
+import 'package:share_pro/sharer_platform_interface.dart';
 
 class MockSharerPlatform
     with MockPlatformInterfaceMixin
@@ -19,8 +19,8 @@ class MockSharerPlatform
 void main() {
   final SharerPlatform initialPlatform = SharerPlatform.instance;
 
-  test('$MethodChannelSharer is the default instance', () {
-    expect(initialPlatform, isInstanceOf<MethodChannelSharer>());
+  test('$MethodChannelSharePro is the default instance', () {
+    expect(initialPlatform, isInstanceOf<MethodChannelSharePro>());
   });
 
   test('getPlatformVersion', () async {
