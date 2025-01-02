@@ -1,10 +1,11 @@
 name: share_pro
-description: "Flutter plugin for share data to another app"
+description: A Flutter plugin that enables sharing text content to other apps on Android and iOS platforms.
 version: 1.0.1
-homepage: "https://navaghandabhi.github.io/navaghan/"
+homepage: https://navaghandabhi.github.io/navaghan/
+repository: https://github.com/navaghandabhi/share_pro
 
 environment:
-  sdk: ^3.5.4
+  sdk: '>=3.0.0 <4.0.0'
   flutter: '>=3.3.0'
 
 dependencies:
@@ -15,6 +16,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^3.0.1
 
 flutter:
   plugin:
