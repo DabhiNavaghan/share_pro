@@ -1,2 +1,2 @@
-## 1.0.1
-- added licence
+## 1.0.2
+- add : support for android
