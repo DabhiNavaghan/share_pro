@@ -4,7 +4,7 @@ First off, thank you for considering contributing to share_pro! It's people like
 
 ## Code of Conduct
 
-By participating in this project, you are expected to uphold our Code of Conduct. Please report unacceptable behavior to [project maintainer's email].
+By participating in this project, you are expected to uphold our Code of Conduct. Please report unacceptable behavior to dabhinvavaghan6@gmail.com.
 
 ## How Can I Contribute?
 
@@ -42,7 +42,7 @@ If you have ideas for new features or improvements:
 1. Install Flutter (latest stable version)
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/share_pro.git
+   git clone https://github.com/DabhiNavaghan/share_pro.git
    cd share_pro
    ```
 3. Install dependencies:
