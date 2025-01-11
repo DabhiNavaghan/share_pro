@@ -91,7 +91,7 @@ No additional configuration required.
 
 ## Example
 
-Check out the [example](https://github.com/yourusername/share_pro/tree/main/example) directory for a complete sample application using share_pro.
+Check out the [example](https://github.com/DabhiNavaghan/share_pro/tree/main/example) directory for a complete sample application using share_pro.
 
 ## License
 
@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Issues and Feedback
 
-Please file specific issues, bugs, or feature requests in our [issue tracker](https://github.com/yourusername/share_pro/issues).
+Please file specific issues, bugs, or feature requests in our [issue tracker](https://github.com/DabhiNavaghan/share_pro/issues).
 
 ## Contributing
 
